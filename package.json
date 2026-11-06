@@ -1,0 +1,22 @@
+{
+  "name": "debouncer",
+  "version": "1.0.0",
+  "description": "Simple debouncer implementation in Nodejs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "",
+    "example": "node src/example/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feramalheira/debouncer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/feramalheira/debouncer/issues"
+  },
+  "homepage": "https://github.com/feramalheira/debouncer#readme"
+}
